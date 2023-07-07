@@ -8,7 +8,7 @@
 
 - ⚡️ I'm constantly learning about new technologies and trends
 
-- 🌱 I’m currently learning **Machine Learning & DevOps**
+- 🌱 I’m currently learning **ML & DevOps**
 
 - 💬 Ask me about **MERN stack, ML**
 
