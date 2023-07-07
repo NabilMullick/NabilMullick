@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabilmullick&label=Profile%20views&color=0e75b6&style=flat" alt="nabilmullick" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nabilmullick" target="blank"><img src="https://img.shields.io/twitter/follow/nabilmullick?logo=twitter&style=for-the-badge" alt="nabilmullick" /></a> </p>
+- ⚡️ I'm constantly learning about new technologies and trends
 
 - 🌱 I’m currently learning **Machine Learning, NextJS**
 
